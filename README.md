@@ -1,6 +1,6 @@
 # NLP-project
-#title: SwiftHire: Accelerating Recruitment with NLP
-Entity Recognition and Skills Matching
+**title: SwiftHire: Accelerating Recruitment with NLP
+Entity Recognition and Skills Matching**
 This project explores the application of natural language processing (NLP) techniques, primarily
 using spaCy, for the analysis of resumes to aid recruiters in efficiently processing a large volume
 of job applications. The dataset comprises over 200 resumes sourced from livecareer.com,
